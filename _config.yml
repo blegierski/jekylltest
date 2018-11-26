@@ -2,5 +2,5 @@ remote_theme: janczizikow/sleek
 title: Welcome to jekylltest website!!!
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/_pages/about'}
+  - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
